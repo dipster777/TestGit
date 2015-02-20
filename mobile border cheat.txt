@@ -1,1 +1,3 @@
+//add to head to put a border around everything, this helps with that odd stray box in mobile view to see where it is
+
 <style>*{border:1px solid red !important;}</style>
